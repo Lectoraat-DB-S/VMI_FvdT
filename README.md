@@ -11,17 +11,21 @@ Hardware:
 
 -1734-AENTR/C Ethernet Adapter == IP adres 192.168.1.113
 
+
 Software:
 
 -Studio5000 versie 34
+
 
 Imports:
 
 Geen
 
+
 Architectuur:
 
 De PLC heeft binnen de kast een ethernet verbinding met de CORETEXX en HMI, het is mogelijk om de laptop aan de kast te sluiten met een ethernetkabel om data lokaal op de laptop op te slaan. Voor verbinding met de kast, moet het IP adres van de CORTEXX meegenomen worden en ingetypt wordren in een browser.
+
 
 Usage:
 
