@@ -6,5 +6,6 @@ Deze code werkt alleen voor de testopstelling die samenkomt met de E-kast. Verde
 Hardware:
 
 -CORTEXX / HMI == IP adres 192.168.1.101 
+
 -Rockwell PLC 1756-L82ES == IP adres 192.168.1.112
 -1734-AENTR/C Ethernet Adapter == IP adres 192.168.1.113
